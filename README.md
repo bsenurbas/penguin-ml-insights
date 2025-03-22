@@ -44,6 +44,7 @@ penguin-ml-insights/
 
 ```bash
 python src/ml_assignment.py
+```
 
 ## Gereksinimler
 
